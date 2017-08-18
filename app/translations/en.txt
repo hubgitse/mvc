@@ -1,0 +1,28 @@
+list_of_products: List of products
+product_id: ID
+product_title: Title
+product_category: Category
+product_price: Price
+product_count: In stock
+user_name: User name
+user_host: Host
+user_add: Add new User
+user_add_button: Add new User
+user_edit: Edit
+user_edit_button: Edit
+user_delete: Delete
+product_edit: Edit
+product_add_button: Add
+product_edit_button: Edit
+product_delete: Delete
+user_register: Register
+user_login: Login
+register_user_name: Name
+register_user_email: Email
+register_user_pass: Password
+register_user_button: Register
+admin_email: Email
+admin_pass: Password
+admin_enter: Go
+admin_register: Register
+admin_logout: Logout

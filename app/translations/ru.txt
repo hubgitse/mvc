@@ -1,0 +1,28 @@
+list_of_products: Список товаров
+product_id: Идентификатор
+product_title: Название
+product_category: Категория
+product_price: Цена
+product_count: В наличии
+user_name: Имя Юзера
+user_host: Хост
+user_add: Добавить Юзера
+user_add_button: Добавить юзера
+user_edit: Редактировать
+user_edit_button: Редактировать
+user_delete: Удалить
+product_edit: Редактировать
+product_add_button: Добавить
+product_edit_button: Редактировать
+product_delete: Удалить
+user_register: Регистрация
+user_login: Вход
+register_user_name: Имя
+register_user_email: Почта
+register_user_pass: Пароль
+register_user_button: Зарегестрироваться
+admin_email: Мыло
+admin_pass: Пароль
+admin_enter: Вход
+admin_register: Зарегистрироваться
+admin_logout: Выйти
